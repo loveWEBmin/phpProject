@@ -1,2 +1,3 @@
 # phpProject
-..test php project
+test php project
+--
